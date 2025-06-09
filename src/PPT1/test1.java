@@ -2,7 +2,7 @@ package PPT1;
 public class test1 {
     public static void main(String[] args) {
         //循环计算
-        int num = 10;
+        int num = 8;
         long sum = 1;
         for (int i = 1; i <= num; i++) {
             sum *= i;
