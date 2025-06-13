@@ -1,4 +1,4 @@
-package PPT3;
+package PPT2;
 //九九乘法表
 public class test1 {
     public static void main(String[] args) {
