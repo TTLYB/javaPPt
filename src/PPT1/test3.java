@@ -4,8 +4,8 @@ package PPT1;
 //
 public class test3 {
     public static boolean isPrime(int num)
-    {
-        for (int i = 2; i *i <= num; i++)//如果
+    {//编程输出1～100内的素数，要求定义一个方法来判断一个整数是否为素数
+        for (int i = 2; i< num; i++)//如果
         {
             if(num % i == 0)
                 return false;
